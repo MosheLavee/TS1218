@@ -20,11 +20,9 @@
 		</div>
 
 		<div class="wide_letters">
-			<div class="title">Wide letters</div>
+			<div class="title">אותיות רחבות</div>
 			<div class="content">
-				<p>Another way to fill the rest of the line is to write very
-					large letters at the ends of the lines. These letters need to be
-					written as regular letters. For example: - נוטל את.</p>
+				<p>שיטה נוספת למילוי השורה היא רישום אותיות רחבות במיוחד בסופי שורות. אותיות אלה יש לרשום כאות רגילה. לדוגמא: - נוטל את.</p>
 				<img
 					src="/TS1218/images/special_characters/b_special_characters_wide_letters.png">
 
