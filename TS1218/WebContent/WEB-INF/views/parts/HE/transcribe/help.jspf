@@ -1,38 +1,18 @@
 <div>
-	<p>The work on Tikkoun Sofrim is quite simple. In the center of the
-		page you are presented a line from the manuscript, and below it the
-		automatic transcription, done by Kraken. If Kraken made errors -
-		correct them. If Kraken was correct - leave the text as is.</p>
-	<p>If there are special characters in the text,deletions or
-		additions, use the buttons under the text line to mark them.</p>
-	<p>You can increase or decrease the transcription font size, for
-		your convenience with the + and - buttons. You can also reset your
-		corrections and return to the original text using the “reset” button.</p>
-	<p>On the left side of the screen you can find the help area. There
-		you can examine the whole page of the manuscript and select different
-		help tabs where you can find explanations about the letters and how
-		they are drawn; explanations about simple characters used for
-		punctuation, the name of god and other purposes, explanations about
-		deletions and additions and what to do whenever you encounter such
-		phenomena in the manuscript.</p>
+	<p>העבודה על תיקון סופרים היא די פשוטה. במוקד הדף מוצגת לכם שורה מתוך כתב היד ומתחתיה תעתוק השורה הזו כפי שבוצע באופן אוטומטי על ידי קראקן, אלגוריתם בינה מלאכותית מבוסס למידה חישובית.
+עליכם לבדוק היטב את הקריאה של קראקן. אם קראקן טעה – תקנו אותו. אם קראקן צדק – השאירו את הטקסט כפי שהוא.
+</p>
+	<p>אם מופיעים בטקסט סימונים מיוחדים, מחיקות או תוספות השתמשו בכפתורים מתחת לשורת הטקסט כדי לציין אותם.</p>
+	<p>תוכלו להגדיל או להקטין את גופן התעתיק לנוחותכם באמצעות הלחצנים + ו -.
+תוכלו גם לאפס את התיקונים שלכם ולחזור אל הטקסט שנקרא על ידי קראקן באמצעות הלחצן 'איפוס'. למחיקת הפעולה האחרונה שעשיתם השתמשו בCNTR+Z.</p>
+	<p>בצד השמאלי של המסך נמצא מרחב העזרה שלכם. שם תוכלו לבחון את העמוד השלם של כתב היד, או לדפדף בין לשוניות העזרה השונות, ובהם תמצאו הסבר על האותיות בכתב היד וצורת כתיבתן; הסבר על התווים המיוחדים המשמשים בכתב היד לפיסוק, לציון שם השם או למטרות אחרות; הסבר על אופן המחיקה והתוספת – ומה לעשות בכל פעם שאתם נתקלים בתופעות אלו בכתב היד.
+אם אינכם בטוחים בקריאת אות מסוימת, תוכלו לסמן אותה בעזרת כפתור 'מסופקני'. אם השורה המוצגת קשה לכם מדי או שמסיבה אחרת אינכם מעוניינים לעבוד עליה, תוכלו ללחוץ 'דלג' ולעבור לשורה הבאה.
+לאחר שסיימתם את הגהת השורה, לחצו על כפתור 'סיימתי' ועברו לשורה הבאה.
+</p>
 </div>
 <div>
-	<strong> Tips</strong>
-	<p>Transcription of historical manuscripts is not easy and often
-		requires considerable experience. Here are a few tips how to advance
-		in your capacities. What can you do if a letter is hard to identify?
-		Click on the manuscript letters tab to visualize how different letters
-		are written. If this does not help it is always useful to look for
-		other occasions where this letter appears in the same line or one of
-		the lines above or below. If this did not help, consider looking at
-		the Midrash edition or if biblical text is cited, and see if the
-		familiar text helps you reading the manuscript. But be careful, we are
-		looking precisely for those places where the handwritten manuscript
-		teaches us something that does not appear in the printed edition.
-		Check carefully if the text in the handwritten manuscript is identical
-		to the printed one. You can find texts of Midrash Tanhuma in the
-		Sefaria website Printed Midrash Tanhuma Midrash Tanhuma - Buber
-		edition Midrash Rabba (contains parts of the material for the books of
-		Exodus, Numbers and Deuteronomy)</p>
+	<strong> טיפים</strong>
+	<p>עבודת התעתוק של כתבי יד היא לעיתים קשה ומאתגרת, ודורשת ניסיון רב. בשורות הבאות ננסה להציע כמה טיפים כיצד להתמודד עם האתגר.
+האות לא ברורה או קשה לזיהוי  – מה לעשות ?פתחו את לשונית האותיות של כתב היד ותוכלו לראות כיצד נכתבות האותיות השונות, ולקרוא גם הסברים על אופן כתיבתן. לא עזר? כדאי תמיד להסתכל מסביב, בשורות למעלה או למטה, לחפש איפה עוד מופיעה האות הזו במילים אחרות, ולנסות להיעזר בה כדי לפענח את האות. לא עזר? מותר להציץ במהדורת המדרש, או אם מדובר בציטוט פסוקים בנוסח המקרא, ולראות אם הנוסח המוכר עוזר לכם לקרוא את כתב היד  – אבל זהירות!    אנחנו מחפשים בדיוק את אותם מקומות שבהם כתב היד מלמד משהו שאין בנוסח הנדפס, בדקו היטב אם אמנם הנוסח בכתב היד זהה לנוסח הדפוס. תוכלו למצוא טקסטים של ספרות מדרשי התנחומא באתר ספריא: מדרש תנחומא הנדפס, מדרש תנחומא, מהדורת בובר. מדרש רבה (שבו נמצא חלק מהחומר לחומשים שמות, במדבר ודברים).</p>
 
 </div>
